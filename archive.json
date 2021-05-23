@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-05-20T00:42:37.287111+00:00",
+  "timestamp": "2021-05-23T00:53:04.732112+00:00",
   "repo": "ietf-rats-wg/draft-ietf-rats-uccs",
   "labels": [
     {
@@ -49,6 +49,23 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "MDU6SXNzdWU4OTY0ODYyNTA=",
+      "title": "Thomas F's review",
+      "url": "https://github.com/ietf-rats-wg/draft-ietf-rats-uccs/issues/1",
+      "state": "OPEN",
+      "author": "thomas-fossati",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Lest we forget: https://mailarchive.ietf.org/arch/msg/rats/sxmbwzg5nfyP8m7epGVk8dTUI7M/\r\n\r\nNote: although this was a review for birkholz-02, I don't think the points raised have been addressed in birkholz-03 (which I guess it's equivalent to rats-00).\r\n\r\n",
+      "createdAt": "2021-05-20T08:39:23Z",
+      "updatedAt": "2021-05-20T08:39:44Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
